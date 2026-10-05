@@ -1,0 +1,19 @@
+{
+ "build_id": "20260910-125541-23954ee",
+ "generated_at": "2026-09-10T12:55:41Z",
+ "model_version": "netA-mixture",
+ "arms": [
+  "registers"
+ ],
+ "synthetic": false,
+ "n_buildings": 13658,
+ "n_modelled": 11598,
+ "n_reference": 13658,
+ "n_excluded": 2060,
+ "n_off_map": {
+  "no_footprint": 71,
+  "modelled": 32,
+  "excluded": 39
+ },
+ "note": "Modelled posterior from the fussade Network A export for 11598 of 13658 buildings; 2060 are out of the model's domain (unheated, unknown use, production) and carry no posterior; the rest keep a demo mixture. Estimates, not certificates."
+}
